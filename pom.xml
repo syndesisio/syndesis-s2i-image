@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.syndesis</groupId>
   <artifactId>helper</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>1.0002</version>
   <packaging>pom</packaging>
   <name>Helper</name>
 
@@ -23,7 +23,7 @@
     <docker.maven.plugin.fabric8.version>0.22.1</docker.maven.plugin.fabric8.version>
     <maven.dependency.plugin.version>3.0.2</maven.dependency.plugin.version>
     <maven.exec.plugin.version>1.2.1</maven.exec.plugin.version>
-    <syndesis.rest.version>0.1-SNAPSHOT</syndesis.rest.version>
+    <syndesis.rest.version>0.1.0.fuse-000023</syndesis.rest.version>
   </properties>
   <build>
     <plugins>
